@@ -1,10 +1,10 @@
 {
 	"id": "callout-edit-button-only",
 	"name": "Callout Edit Button Only",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.15.0",
 	"description": "Stop callouts from switching to their Markdown source when you click them in Live Preview. Use the edit button instead.",
 	"author": "Ancient77",
 	"authorUrl": "https://github.com/Ancient77",
-	"isDesktopOnly": false
+	"isDesktopOnly": true
 }

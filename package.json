@@ -1,6 +1,6 @@
 {
 	"name": "callout-edit-button-only",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Obsidian plugin: callouts in Live Preview only switch to source via the edit button.",
 	"main": "main.js",
 	"type": "module",
